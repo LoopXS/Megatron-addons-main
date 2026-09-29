@@ -2,7 +2,6 @@ covid
 emoji
 fonttools
 gtts
-gingerit
 jikanpy
 git+https://github.com/New-dev0/AsyncLyricsExtractor.git
 markdownify
